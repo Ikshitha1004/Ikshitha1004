@@ -10,21 +10,16 @@
 ## 🚀 About Me  
 
 - ⚙️ **IBM** — Working on VPC architecture & CI/CD automation  
-- 🧠 **Research** — Exploring *Smooth Functional Policy Optimization (SFPO)* for robust control  
+- 🧠 **Research** — Exploring RL for robust control  
  
 ---
 
 ## 💡 Interests  
 
 - **Reinforcement Learning**  
-  Hardware-aware profiling, CVaR, risk-sensitive optimization  
-
 - **Optimization**  
-  Quantile-based tail optimization, Monte Carlo gradient methods  
-
-- **LLMs & AI Systems**  
-  RAG pipelines, prompt augmentation (PromptFix), robustness  
-
+- **LLMs & AI Systems**
+- **Distributed Systems**
 ---
 
 ## 🛠️ Tech  
@@ -46,9 +41,11 @@
   <a href="https://linkedin.com/in/ikshitha-janarthanan" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
+ 
   <a href="mailto:ikshi.thaj0477@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
+  
   <a href="https://github.com/Ikshitha104">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
