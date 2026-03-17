@@ -45,9 +45,8 @@
   <a href="mailto:ikshi.thaj0477@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  
-  <a href="https://github.com/Ikshitha104">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+   <a href="https://leetcode.com/u/ikshitha0210/">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
   </a>
 </p>
 
