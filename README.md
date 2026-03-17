@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ikshitha Janarthanan  
 
 🎓 CSE @ IIT Tirupati  
-💼 Engineering @ IBM  
+💼 Engineering @ IBM   
 
 > Building scalable, robust AI systems at the intersection of ML and infrastructure.
 
@@ -11,8 +11,7 @@
 
 - ⚙️ **IBM** — Working on VPC architecture & CI/CD automation  
 - 🧠 **Research** — Exploring *Smooth Functional Policy Optimization (SFPO)* for robust control  
-- 📈 **Scale** — Built a RAG-based AI agent (Microsoft) supporting **60+ production connection types**  
-
+ 
 ---
 
 ## 💡 Interests  
@@ -44,13 +43,13 @@
 ## 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/ikshitha-janarthanan" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:ikshi.thaj0477@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  <a href="https://github.com/YOUR-USERNAME">
+  <a href="https://github.com/Ikshitha104">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
@@ -61,12 +60,8 @@
 
 Open to collaborating on:  
 - Robust / Reliable AI  
-- Energy-efficient ML  
+- Applied ML  
 - Foundation models & large-scale systems  
 
 ---
 
-## 🌐 More  
-
-- 📄 Research & work: available across repositories  
-- 🔗 Add LinkedIn / papers if needed  
